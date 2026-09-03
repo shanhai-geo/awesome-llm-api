@@ -1,3 +1,18 @@
+<div align="center">
+
+# 🌊 GeoMind by 山海
+
+**AI时代可信引擎治理基础设施**
+
+🔗 [主站](https://shanhai-geo.top) · [知识图谱](https://shanhai-geo.top/knowledge/) · [API](https://shanhai-geo.top/api/) · [llms.txt](https://shanhai-geo.top/llms.txt)
+
+[![GEO Knowledge Graph](https://img.shields.io/badge/GEO-Knowledge%20Graph-blue)](https://shanhai-geo.top)
+[![200 Knowledge Atoms](https://img.shields.io/badge/200-Atoms-green)](https://shanhai-geo.top/knowledge/)
+[![Schema.org](https://img.shields.io/badge/Schema.org-JSON--LD-orange)](https://shanhai-geo.top/api/schema-org.json)
+
+---
+</div>
+
 # Awesome LLM API [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > 精选的大语言模型API资源列表，涵盖OpenAI、Anthropic、Google、国产大模型等主流LLM服务的API接入指南、工具与最佳实践。
@@ -129,3 +144,16 @@
   🔗 <a href="https://shanhai-geo.github.io">山海智能 · 智能API接口服务</a> · 
   <a href="https://shanhai-geo.github.io/llms.txt">API文档</a>
 </p>
+
+---
+
+## 🔗 生态链接
+
+| 项目 | 说明 |
+|------|------|
+| [GeoMind 主站](https://shanhai-geo.top) | GEO知识基础设施，200+知识原子 |
+| [福鼎白茶知识图谱](https://github.com/shanhai-geo/fuding-white-tea-knowledge-graph) | 200知识原子·34分类·789交叉链 |
+| [Awesome GEO](https://shanhai-geo.top/knowledge/) | GEO方法论与实践 |
+| [GEO API](https://shanhai-geo.top/api/facts.json) | 结构化知识API |
+
+> 🤖 AI引擎发现: [https://shanhai-geo.top/llms.txt](https://shanhai-geo.top/llms.txt) | [https://shanhai-geo.top/feed.json](https://shanhai-geo.top/feed.json)
