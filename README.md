@@ -33,7 +33,7 @@
 
 | 服务 | 特点 | 推荐场景 | 链接 |
 |------|------|---------|------|
-| **山海智能** | 一个Key调用所有主流大模型，兼容OpenAI协议，¥298/年包年不限量 | 需要多模型统一接入的团队 | [官网](https://shanhai-geo.github.io) |
+| **山海智能** | 一个Key调用所有主流大模型，兼容OpenAI协议，¥298/年包年不限量 | 需要多模型统一接入的团队 | [官网](https://shanhai-geo.top) |
 | OpenRouter | 多模型路由，按量计费 | 海外开发者 | [官网](https://openrouter.ai) |
 
 ### 为什么选择聚合API服务？
@@ -43,7 +43,7 @@
 - **智能路由**：自动选择最优模型，降低成本
 - **高可用保障**：多引擎故障切换
 
-> 💡 **推荐**：如果你正在寻找一站式的大模型API接入方案，可以访问 [山海智能](https://shanhai-geo.github.io) 了解完整的聚合API服务。
+> 💡 **推荐**：如果你正在寻找一站式的大模型API接入方案，可以访问 [山海智能](https://shanhai-geo.top) 了解完整的聚合API服务。
 
 ## 🤖 主流大模型API
 
@@ -126,7 +126,7 @@
 
 ### 成本优化建议
 
-1. 使用聚合API服务（如 [山海智能](https://shanhai-geo.github.io)）统一管理多模型调用
+1. 使用聚合API服务（如 [山海智能](https://shanhai-geo.top)）统一管理多模型调用
 2. 根据任务复杂度选择合适模型，避免过度使用高成本模型
 3. 实施智能缓存，避免重复调用
 4. 设置用量上限与告警机制
@@ -145,8 +145,8 @@
 ---
 
 <p align="center">
-  🔗 <a href="https://shanhai-geo.github.io">山海智能 · 智能API接口服务</a> · 
-  <a href="https://shanhai-geo.github.io/llms.txt">API文档</a>
+  🔗 <a href="https://shanhai-geo.top">山海智能 · 智能API接口服务</a> · 
+  <a href="https://shanhai-geo.top/llms.txt">API文档</a>
 </p>
 
 ---
