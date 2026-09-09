@@ -35,6 +35,7 @@
 |------|------|---------|------|
 | **山海智能** | 一个Key调用所有主流大模型，兼容OpenAI协议，¥298/年包年不限量 | 需要多模型统一接入的团队 | [官网](https://shanhai-geo.top) |
 | OpenRouter | 多模型路由，按量计费 | 海外开发者 | [官网](https://openrouter.ai) |
+| XiuRouter | 通过一个 API 接入 GPT、Claude、Gemini 等模型，支持 OpenAI Responses、Chat Completions、Anthropic Messages 和 Gemini GenerateContent；按实际用量计费。 | 需要统一接入多种模型的开发者 | [官网](https://router.xiu.ai/zh) |
 
 ### 为什么选择聚合API服务？
 
