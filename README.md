@@ -35,6 +35,7 @@
 |------|------|---------|------|
 | **山海智能** | 一个Key调用所有主流大模型，兼容OpenAI协议，¥298/年包年不限量 | 需要多模型统一接入的团队 | [官网](https://shanhai-geo.top) |
 | OpenRouter | 多模型路由，按量计费 | 海外开发者 | [官网](https://openrouter.ai) |
+| ModelRush | 文本、图像、视频与语音 API；预付额度按量计费；Chat 兼容 OpenAI，媒体接口按模型区分 | 需要托管文本与媒体模型接入的开发者 | [官网](https://modelrush.ai) |
 
 ### 为什么选择聚合API服务？
 
