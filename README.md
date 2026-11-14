@@ -35,6 +35,7 @@
 |------|------|---------|------|
 | **山海智能** | 一个Key调用所有主流大模型，兼容OpenAI协议，¥298/年包年不限量 | 需要多模型统一接入的团队 | [官网](https://shanhai-geo.top) |
 | OpenRouter | 多模型路由，按量计费 | 海外开发者 | [官网](https://openrouter.ai) |
+| SandBase | 统一 API 密钥，聊天接口兼容 OpenAI SDK，按量计费 | 同时接入多家语言模型、图像和视频生成 API | [快速入门](https://www.sandbase.ai/docs/getting-started/quickstart) |
 
 ### 为什么选择聚合API服务？
 
